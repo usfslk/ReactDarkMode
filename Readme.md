@@ -1,7 +1,12 @@
 
 # LocalStorage DarkMode
 
-Flip any React apps to dark mode, it's easier on the eyes, better for night-time browsing and in some cases, helpful with battery life.
+Flip any React apps to dark mode.
+It's easier on the eyes, better for night-time browsing and in some cases, helpful with battery life.
+
+## Live demo
+
+https://nightmode-4b864.firebaseapp.com/
 
 ## Getting Started
 
