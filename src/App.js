@@ -10,7 +10,7 @@ class App extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      class: '',
+      class: ''
     }
   }
 
@@ -49,11 +49,10 @@ class App extends Component {
           </Button>
           <div style={{ maxWidth: '75vh', margin: '5vh' }}>
             <h6>
-              Flip any React apps to dark mode, it's easier on the eyes, better for
-              night-time browsing and in some cases, helpful with battery life.
+              Flip any React apps to dark mode, it's easier on the eyes, better for night-time
+              browsing and in some cases, helpful with battery life.
             </h6>
             <hr />
-
             <li>Lorem ipsum dolor sit amet</li>
             <li>Aliquam tincidunt mauris eu risus.</li>
             <li>Vestibulum auctor dapibus neque.</li>
