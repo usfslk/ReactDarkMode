@@ -39,13 +39,13 @@ class App extends Component {
     return (
       <div className='App'>
         <div className={this.state.class}>
-          <h1>LocalStorage Dark Mode</h1>
+          <h1>LocalStorage DarkMode</h1>
           <h6>Reload this page!</h6>
           <hr />[ this.state.{this.state.class} ]
           <Button className='mt-5 mb-5 pl-5 pr-5' onClick={this.switch} color='primary' active>
             🌗 Switch
           </Button>
-          <Button href='https://github.com/Protobulb/nightMode' color='link'>
+          <Button href='https://github.com/usfslk/ReactDarkMode' color='link'>
             Source
           </Button>
           <div style={{ maxWidth: '80vh', textAlign: 'justify', margin: '5vh' }}>

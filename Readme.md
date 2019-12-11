@@ -1,5 +1,5 @@
 
-# Monosfer
+# LocalStorage DarkMode
 
 Flip any React apps to dark mode, which can be easier on the eyes, better for night-time browsing and in some cases, helpful with battery life.
 
@@ -12,6 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 A step by step series of examples that tell you how to get a development env running
 
 ```
+git clone https://github.com/usfslk/ReactDarkMode.git
+cd ReactDarkMode
 npm install && npm start
 ```
 
