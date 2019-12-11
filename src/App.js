@@ -11,7 +11,6 @@ class App extends Component {
     super(props)
     this.state = {
       class: '',
-      modal: false
     }
   }
 
@@ -48,7 +47,7 @@ class App extends Component {
           <Button href='https://github.com/usfslk/ReactDarkMode' color='link'>
             Source
           </Button>
-          <div style={{ maxWidth: '80vh', textAlign: 'justify', margin: '5vh' }}>
+          <div style={{ maxWidth: '75vh', margin: '5vh' }}>
             <h6>
               Flip any React apps to dark mode, it's easier on the eyes, better for
               night-time browsing and in some cases, helpful with battery life.
