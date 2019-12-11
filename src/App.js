@@ -39,18 +39,18 @@ class App extends Component {
     return (
       <div className='App'>
         <div className={this.state.class}>
-          <h1>LocalStorage DarkMode</h1>
+          <h1>LocalStorage DarkMode 🌗</h1>
           <h6>Reload this page!</h6>
           <hr />[ this.state.{this.state.class} ]
           <Button className='mt-5 mb-5 pl-5 pr-5' onClick={this.switch} color='primary' active>
-            🌗 Switch
+            Switch
           </Button>
           <Button href='https://github.com/usfslk/ReactDarkMode' color='link'>
             Source
           </Button>
           <div style={{ maxWidth: '80vh', textAlign: 'justify', margin: '5vh' }}>
             <h6>
-              Flip any React apps to dark mode, which can be easier on the eyes, better for
+              Flip any React apps to dark mode, it's easier on the eyes, better for
               night-time browsing and in some cases, helpful with battery life.
             </h6>
             <hr />
